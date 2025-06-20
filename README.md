@@ -15,7 +15,7 @@
 
 ### Setting up the Project
 
-`git clone https://github.com/your-username/MyLibrary.git`
+`git clone https://github.com/initial1ze/django-mylibrary.git`
 `cd MyLibrary`
 
 `python3 -m venv venv`

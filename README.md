@@ -16,14 +16,17 @@
 ### Setting up the Project
 
 `git clone https://github.com/initial1ze/django-mylibrary.git`
-`cd MyLibrary`
+
+`cd library`
 
 `python3 -m venv venv`
+
 `source venv/bin/activate`  
 
 `pip install django`
 
 `python3 manage.py makemigrations`
+
 `python3 manage.py migrate`
 
 ### Run the Development Server
